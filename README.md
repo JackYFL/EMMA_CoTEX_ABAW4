@@ -8,11 +8,11 @@ The urls of pretrained models are provided: MAE_ViT_pretrained_on_CelebA \[ [bai
 This codebase is based on `Python 3.7`. 
 Ensure you have installed all the necessary Python packages, run `python install -r requirements.txt`
 
-##Data
+## Data
 Please download the ABAW4 data including MTL and LSD before running the code. 
 
-##Training
-###EMMA
+## Training
+### EMMA
 - First you need to change the pretrained model and dataset directories in the script [`shs/train_EMMA.sh`](./shs/train_EMMA.sh)
 
 - Second, run the following command:
@@ -20,7 +20,7 @@ Please download the ABAW4 data including MTL and LSD before running the code.
 ```
 sh shs/train_EMMA.sh
 ```
-###Masked CoTEX
+### Masked CoTEX
 - First you need to change the pretrained model and dataset directories in the script [`shs/train_masked_CoTEX.sh`](./shs/train_masked_CoTEX.sh)
 
 - Second, run the following command:
