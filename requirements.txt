@@ -1,0 +1,9 @@
+torch==1.7.1
+torchvision==0.8.2
+timm==0.4.12
+numpy==1.19.4
+pillow==8.0.1
+scikit_learn==0.23.1
+tqdm==4.56.0
+scipy==1.6.0
+argparse==1.4
