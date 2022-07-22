@@ -29,3 +29,8 @@ sh shs/train_EMMA.sh
 ```
 sh shs/train_masked_CoTEX.sh
 ```
+
+### Reference
+
+This code refers to masked auto-encoder ([MAE](https://github.com/facebookresearch/mae)) and [DAN](https://github.com/yaoing/DAN). Thanks you!
+
