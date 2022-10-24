@@ -1,7 +1,5 @@
 # Affective Behaviour Analysis Using Pretrained Model with Facial Priori for ABAW4 
-[Paper](https://arxiv.org/abs/2207.11679), [slides](链接：https://pan.baidu.com/s/1fojslUcjZwDOjKFMQ8uvRQ?pwd=ABAW 
-提取码：ABAW), [video](链接：https://pan.baidu.com/s/12SUQ1mvpH4-sv7_oYWA7Hw?pwd=ABAW 
-提取码：ABAW)
+[[Paper](https://arxiv.org/abs/2207.11679)], [[slides, code: ABAW](https://pan.baidu.com/s/1fojslUcjZwDOjKFMQ8uvRQ?pwd=ABAW)], [[video, code: ABAW](https://pan.baidu.com/s/12SUQ1mvpH4-sv7_oYWA7Hw?pwd=ABAW)]
 
 This repository is the codebase for [ABAW4](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) challenge, which includes EMMA for multi-task-learning (MTL) and masked CoTEX for learning from synthetic data (LSD) challenge.
 
