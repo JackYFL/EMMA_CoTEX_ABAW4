@@ -1,11 +1,16 @@
-# Affective Behaviour Analysis Using Pretrained Model with Facial Priori for ABAW4
+# Affective Behaviour Analysis Using Pretrained Model with Facial Priori for ABAW4 
+[Paper](https://arxiv.org/abs/2207.11679), [slides](), [video]()
 
 This repository is the codebase for [ABAW4](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) challenge, which includes EMMA for multi-task-learning (MTL) and masked CoTEX for learning from synthetic data (LSD) challenge.
 
 The urls of pretrained models are provided: 
+
 MAE_ViT_pretrained_on_CelebA \[ [baidu, code: ABAW](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw) \], and AffectNet_pretrained_DAN \[ [baidu, code: ABAW](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw) \].
 
 The ArXiv link is: https://arxiv.org/abs/2207.11679.
+The slides and presentation are available: [slides](链接：https://pan.baidu.com/s/1fojslUcjZwDOjKFMQ8uvRQ?pwd=ABAW 
+提取码：ABAW), [video](链接：https://pan.baidu.com/s/12SUQ1mvpH4-sv7_oYWA7Hw?pwd=ABAW 
+提取码：ABAW)
 
 ## Requirements
 This codebase is based on `Python 3.7`. 
