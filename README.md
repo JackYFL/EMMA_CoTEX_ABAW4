@@ -5,7 +5,7 @@ This repository is the codebase for [ABAW4](https://ibug.doc.ic.ac.uk/resources/
 
 The urls of pretrained models are provided: 
 
-MAE_ViT_pretrained_on_CelebA \[ [baidu, code: ABAW](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw) \], and AffectNet_pretrained_DAN \[ [baidu, code: ABAW](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw) \].
+MAE_ViT_pretrained_on_CelebA \[ [baidu, code: ABAW](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw) \], and DAN_pretrained_on_AffectNet \[ [baidu, code: ABAW](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw) \].
 
 ## Requirements
 This codebase is based on `Python 3.7`. 
