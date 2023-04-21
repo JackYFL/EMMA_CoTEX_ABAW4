@@ -3,16 +3,6 @@
 
 This repository is the codebase for [ABAW4](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) challenge, which includes EMMA for multi-task-learning (MTL) and masked CoTEX for learning from synthetic data (LSD) challenge.
 
-## Pretrained models
-The pretrained models for EMMA and COTEX are provided through the following urls:
-
-<b>MAE ViT pretrained on CelebA</b>: \[[link](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw)\] (code: ABAW) \
-<b>DAN pretrained on AffectNet</b>: \[[link](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw)\] (code: ABAW)
-
-We also provide the pretrained EMMA models:
-
-<b>EMMA</b>: \[[link](https://pan.baidu.com/s/12xTjIqhTUdp_FziBNTEd0A?pwd=ABAW)\] (code: ABAW)
-
 ## Citing this paper
 If you find this repo is useful, please cite the following BibTeX entry. Thank you!
 ```
@@ -25,6 +15,17 @@ If you find this repo is useful, please cite the following BibTeX entry. Thank y
   organization={Springer}
 }
 ```
+
+## Pretrained models
+The pretrained models for EMMA and COTEX are provided through the following urls:
+
+<b>MAE ViT pretrained on CelebA</b> \[[link](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw)\] (code: ABAW) \
+<b>DAN pretrained on AffectNet</b> \[[link](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw)\] (code: ABAW)
+
+We also provide the pretrained EMMA models:
+
+<b>EMMA</b> \[[link](https://pan.baidu.com/s/12xTjIqhTUdp_FziBNTEd0A?pwd=ABAW)\] (code: ABAW)
+
 
 ## Requirements
 This codebase is based on `Python 3.7`. 
