@@ -7,6 +7,19 @@ The urls of pretrained models are provided:
 
 MAE_ViT_pretrained_on_CelebA \[ [baidu, code: ABAW](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw) \], and DAN_pretrained_on_AffectNet \[ [baidu, code: ABAW](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw) \].
 
+## Citing this paper
+If you find this repo is useful, please cite the following BibTeX entry. Thank you!
+```
+@inproceedings{li2023affective,
+  title={Affective Behaviour Analysis Using Pretrained Model with Facial Prior},
+  author={Li, Yifan and Sun, Haomiao and Liu, Zhaori and Han, Hu and Shan, Shiguang},
+  booktitle={European Conference on Computer Vision Workshop},
+  pages={19--30},
+  year={2023},
+  organization={Springer}
+}
+```
+
 ## Requirements
 This codebase is based on `Python 3.7`. 
 Ensure you have installed all the necessary Python packages, run `python install -r requirements.txt`
