@@ -22,7 +22,7 @@ The pretrained models for EMMA and COTEX are provided through the following urls
 <b>MAE ViT pretrained on CelebA</b> \[[link](https://pan.baidu.com/s/1aedEeEHeIslvx0WsFVWxDw)\] (code: ABAW) \
 <b>DAN pretrained on AffectNet</b> \[[link](https://pan.baidu.com/s/1MNSkd7KWSL5USywPG3XVfw)\] (code: ABAW)
 
-We also provide the pretrained EMMA models:
+We also provide the pretrained EMMA model:
 
 <b>EMMA</b> \[[link](https://pan.baidu.com/s/12xTjIqhTUdp_FziBNTEd0A?pwd=ABAW)\] (code: ABAW)
 
